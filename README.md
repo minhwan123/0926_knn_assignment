@@ -1,5 +1,10 @@
 # K-Nearest Neighbors (KNN) for CIFAR-10 Image Classification
 
+## Student Information
+**Name:** MinHwan Noh  
+**Student ID:** 2022113600  
+**Course:** Computer Vision 
+
 ## Project Overview
 
 This project contains the final implementation of a CIFAR-10 classification task using the K-Nearest Neighbors (KNN) algorithm. It implements three different data splitting and validation methods:
